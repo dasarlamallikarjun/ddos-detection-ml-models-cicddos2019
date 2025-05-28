@@ -48,7 +48,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/DDOS-Detection-ML.git
-cd DDOS-Detection-ML
+cd ddos-detection-ml-models-cicddos2019
 ```
 
 
